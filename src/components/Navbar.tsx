@@ -24,7 +24,7 @@ const Navbar = () => {
           Pipeline<span className="text-primary">Scaler</span>
         </span>
         <a
-          href="mailto:hello@PipelineScaler.com"
+          href="https://calendly.com/meetwithsumit/30min"
           className="bg-primary text-primary-foreground font-display font-medium px-5 py-2 rounded-lg text-sm hover:opacity-90 transition-opacity"
         >
           Get in Touch
