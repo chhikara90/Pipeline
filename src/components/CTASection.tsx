@@ -17,7 +17,7 @@ const CTASection = () => {
             the fastest way to see if PipelineScaler is a fit is a short conversation.
           </p>
           <a
-            href="mailto:hello@PipelineScaler.com"
+            href="https://calendly.com/meetwithsumit/30min"
             className="inline-block bg-primary text-primary-foreground font-display font-semibold px-8 py-4 rounded-lg text-lg hover:opacity-90 transition-all duration-300 glow-border"
           >
             Schedule an Intro Call
