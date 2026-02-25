@@ -47,7 +47,7 @@ const HeroSection = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.45 }}
-          href="mailto:hello@PipelineScaler.com"
+          href="https://calendly.com/meetwithsumit/30min"
           className="inline-block bg-primary text-primary-foreground font-display font-semibold px-8 py-4 rounded-lg text-lg hover:opacity-90 transition-all duration-300 glow-border"
         >
           Book a Short Intro Call
